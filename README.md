@@ -27,7 +27,7 @@ The tool is Pandas.
 I explored 3 categories of questions in this analysis.
 
 
-**Question 1 the shape of the dataframe**
+**Question 1 What are the data shapes?**
 
 examples: 
 
@@ -39,7 +39,7 @@ retrieve the random data samples;
 
 display datatypes;
 
-**Question 2 the correlation between villagers' hobby and their gender**
+**Question 2 What are correlations between the hobby of villagers and their gender?**
 
 examples:
 
@@ -60,7 +60,7 @@ Compare the count of males and females in each hobby category, and the percentag
 
 Visualize the data by a bar chart and a heat map.
 
-**Question 3 the distribution of species of villagers**
+**Question 3 How do species of villagers distribute?**
 
 examples:
 
