@@ -6,7 +6,7 @@ This is an assignment on the collecting data course. I try to explore how I can 
 
 ### source
 
-This dataset is from Google Spreadsheet,which is a large and comprehensive inventory of items in Animal Crossing: New Horizons.
+This dataset is from [Google Spreadsheet](https://docs.google.com/spreadsheets/d/13d_LAJPlxMa_DubPTuirkIV4DERBMXbrWQsmSh8ReK4/edit#gid=400375391), which is a large and comprehensive inventory of items in Animal Crossing: New Horizons.
 
 ### content
 
