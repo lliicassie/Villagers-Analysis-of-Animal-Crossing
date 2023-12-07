@@ -58,13 +58,13 @@ Count the hobby types,the gender numbers in each kind of hobby,and the percentag
 
 Compare the count of males and females in each hobby category, and the percentage of gender numbers in each hobby,
 
-Visualize the data
+Visualize the data by a bar chart and a heat map.
 
 **Question 3 the distribution of species of villagers**
 
 examples:
 
-Filter the data of species of villagers, then visualize the data.
+Filter the data of species of villagers, then visualize the data by a bar chart.
 
 
 
