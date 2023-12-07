@@ -60,7 +60,7 @@ Compare the count of males and females in each hobby category, and the percentag
 
 Visualize the data
 
-**Question 3 Explore the distribution of species of villagers**
+**Question 3 the distribution of species of villagers**
 
 examples:
 
